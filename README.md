@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Halo, saya Arif Rahman Hakim 👋
 
-![Arif Rahman Hakim](img/github-header-banner.png)
+![Arif Rahman Hakim](img/Header.png)
 
 ### Pengembang Perangkat Lunak · Teknologi Kreatif · Solusi Digital untuk Event
 
