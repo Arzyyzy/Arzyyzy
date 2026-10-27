@@ -17,145 +17,89 @@ Here are some ideas to get you started:
 
 ![Arif Rahman Hakim](img/Header.png)
 
-### Pengembang Perangkat Lunak · Teknologi Kreatif · Solusi Digital untuk Event
+### AI-Assisted Developer · Digital Product Builder
 
-Saya mengembangkan aplikasi dan pengalaman digital yang menggabungkan perangkat lunak, teknologi kreatif, dan kebutuhan nyata di lapangan.
+Saya membangun solusi digital dengan memadukan pemahaman dasar pemrograman, teknologi kreatif, dan AI sebagai pendamping pengembangan.
 
-Saya tertarik membangun solusi yang bukan hanya berfungsi secara teknis, tetapi juga mudah digunakan, dapat dikembangkan lebih lanjut, dan memberikan pengalaman yang baik bagi penggunanya.
+Saat ini, saya berfokus pada aplikasi photobooth, digital guestbook, integrasi perangkat, dan pengalaman digital untuk industri kreatif dan event.
 
-Saat ini, saya berfokus pada pengembangan aplikasi photobooth, sistem digital guestbook, website interaktif, serta eksplorasi integrasi perangkat keras dan perangkat lunak untuk kebutuhan industri kreatif dan event.
+##  Proyek Unggulan
 
----
+ **[Lumina Booth](https://github.com/Arzyzyy/LuminaBooth)**  
+Aplikasi photobooth berbasis Electron dengan fokus pada integrasi kamera DSLR, pengelolaan foto, dan pengalaman pengguna.
 
-## 🚀 Proyek yang Sedang Saya Kembangkan
+ **Digital Signage Guestbook**  
+Integrasi website guestbook dengan Android touchscreen dan Xibo Player untuk menghadirkan pengalaman interaktif dalam acara.
 
-### 📸 Lumina Booth — Photobooth Application
+ **Video Digital Guestbook — Coming Soon**  
+Eksplorasi pengalaman guestbook berbasis video untuk mengabadikan pesan dan momen dari para tamu.
 
-**Status: Pengembangan dan penyempurnaan**
+ **[ArifPorto](https://github.com/Arzyzyy/ArifPorto)**  
+Portofolio pribadi untuk menampilkan proyek dan eksplorasi teknologi kreatif.
 
-Aplikasi photobooth berbasis Electron yang dikembangkan untuk mendukung kebutuhan operasional photobooth dalam acara.
+**[Niskala](https://github.com/Arzyzyy/Niskala)**  
+Proyek website di bidang pernikahan dan industri kreatif.
 
-Fokus pengembangan meliputi:
-- Integrasi kamera DSLR dan workflow pengambilan foto.
-- Pengelolaan frame, layout foto, dan hasil akhir.
-- Manajemen sesi foto dan penyimpanan hasil.
-- Integrasi layanan backend dan komunikasi antarproses aplikasi.
-- Pengujian, debugging, keamanan, dan kesiapan aplikasi untuk digunakan.
+##  Technologies & Tools
 
-Teknologi utama: `Electron` · `JavaScript` · `Node.js` · `Camera Integration`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,electron,nodejs,threejs,supabase,git,github,vscode" alt="Technologies and tools" />
+</p>
 
-Repository: [Lumina Booth](https://github.com/Arzyzyy/LuminaBooth)
+##  AI-Assisted Development
 
-### 🖊️ Digital Signage Guestbook
+<p align="left">
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Claude-AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  </a>
+  <a href="https://chatgpt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-AI_Assisted-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  </a>
+</p>
 
-**Status: Pengembangan dan integrasi sistem**
+##  Mari Terhubung
 
-Proyek yang menggabungkan website Digital Guestbook dengan perangkat layar sentuh Android dan sistem digital signage untuk kebutuhan acara, khususnya pernikahan.
+<p align="left">
+  <a href="https://github.com/Arzyzyy">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/arifrahmanh4kim/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/arif-rahman-hakim-5a141836b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rarif9534@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
+  </a>
+</p>
 
-Konsep yang dikembangkan adalah menampilkan slideshow acara pada satu bagian layar, sementara bagian lainnya digunakan oleh tamu untuk menulis pesan secara langsung melalui website.
+## My GitHub Stats
 
-Fokus pengembangan meliputi:
-- Integrasi website Digital Guestbook dengan perangkat Android 12 touchscreen.
-- Eksplorasi penggunaan Xibo Player sebagai media penayangan slideshow.
-- Penyesuaian tampilan antarmuka untuk penggunaan layar sentuh.
-- Perancangan alur interaksi antara slideshow dan area penulisan pesan.
-- Pengembangan mekanisme penyimpanan pesan agar dapat digunakan secara andal.
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Arzyyzy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Arzyzyy's GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzyyzy&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
 
-Teknologi dan platform: `Android 12` · `Xibo Player` · `Web Application` · `Touchscreen Interface`
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Arzyyzy&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
-### 🎥 Video Digital Guestbook
-
-**Status: Perancangan — Coming Soon**
-
-Proyek pengembangan pengalaman video guestbook digital yang ditujukan untuk mengabadikan pesan, ucapan, dan momen dari para tamu dalam sebuah acara.
-
-Proyek ini dirancang sebagai pengembangan tersendiri dari konsep guestbook berbasis teks, dengan fokus pada pengalaman merekam dan menyimpan pesan video.
-
-### 🌐 ArifPorto — Personal Portfolio
-
-**Status: Pengembangan**
-
-Website portofolio pribadi untuk mendokumentasikan proyek, menampilkan hasil karya, dan memperkenalkan perjalanan saya dalam bidang pengembangan perangkat lunak dan teknologi kreatif.
-
-Fokus pengembangan meliputi eksplorasi desain interaktif, visualisasi 3D, animasi, serta penyajian studi kasus proyek.
-
-Repository: [ArifPorto](https://github.com/Arzyzyy/ArifPorto)
-
-### 🌿 Niskala
-
-**Kategori: Proyek web di bidang kreatif**
-
-Proyek website dalam ranah pernikahan dan industri kreatif. Proyek ini menjadi bagian dari pengalaman saya dalam mengembangkan solusi digital untuk kebutuhan visual dan layanan kreatif.
-
-Repository: [Niskala](https://github.com/Arzyzyy/Niskala)
-
----
-
-## 🛠️ Teknologi dan Lingkup Pengembangan
-
-**Pengembangan Aplikasi**
-- Electron
-- JavaScript
-- Node.js
-- TypeScript
-
-**Web Development**
-- React
-- Vite
-- HTML & CSS
-- Three.js dan React Three Fiber
-
-**Backend dan Integrasi**
-- Supabase
-- REST API
-- Inter-Process Communication (IPC)
-- Integrasi kamera dan perangkat eksternal
-
-**Tools dan Workflow**
-- Git & GitHub
-- Visual Studio Code
-- Debugging dan pengujian aplikasi
-- AI-assisted development
-
-Teknologi di atas mencerminkan lingkup proyek yang saya kerjakan dan eksplorasi. Penggunaan setiap teknologi disesuaikan dengan kebutuhan masing-masing proyek.
-
----
-
-## 🤖 AI-Assisted Development
-
-Dalam proses pengembangan, saya memanfaatkan AI sebagai alat bantu untuk mempercepat eksplorasi, analisis, implementasi, dan pemecahan masalah teknis.
-
-Tools yang biasa saya gunakan meliputi:
-- **Claude AI** — membantu analisis kode, perencanaan arsitektur, dan evaluasi implementasi.
-- **ChatGPT** — membantu penalaran teknis, penyusunan strategi pengembangan, dokumentasi, dan debugging.
-- **Visual Studio Code Agent** — membantu pengerjaan dan perubahan kode langsung di lingkungan proyek.
-- **GitHub dan GitHub Copilot/Agent** — digunakan sesuai kebutuhan untuk mendukung workflow pengembangan berbasis repository.
-
-AI saya gunakan sebagai pendamping kerja, bukan sebagai pengganti proses pengambilan keputusan teknis. Saya tetap berfokus pada pemahaman implementasi, pemeriksaan perubahan, pengujian, dan evaluasi hasil sebelum sebuah fitur dianggap siap.
-
-Bagi saya, kemampuan menggunakan AI secara efektif adalah bagian dari workflow pengembangan modern, terutama ketika mengerjakan proyek yang melibatkan banyak komponen dan integrasi.
-
----
-
-## 🎯 Fokus Pengembangan
-
-- Membangun aplikasi yang stabil dan mudah dipelihara.
-- Mengintegrasikan perangkat keras dengan aplikasi perangkat lunak.
-- Mengembangkan solusi digital untuk industri event dan kreatif.
-- Meningkatkan kualitas UI/UX dan interaksi pengguna.
-- Menerapkan praktik debugging, pengujian, keamanan, dan dokumentasi.
-- Memanfaatkan AI untuk mendukung proses engineering secara terarah.
-
----
-
-## 🤝 Mari Terhubung
-
-Saya terbuka untuk berdiskusi, berkolaborasi, dan bertukar ide mengenai pengembangan perangkat lunak, teknologi kreatif, integrasi perangkat, serta solusi digital untuk kebutuhan event.
-
+- **Email:** [rarif9534@gmail.com](mailto:rarif9534@gmail.com)
+- **LinkedIn:** [arif-rahman-hakim](https://www.linkedin.com/in/arif-rahman-hakim-5a141836b/)
+- **Instagram:** [@arifrahmanh4kim](https://www.instagram.com/arifrahmanh4kim/)
 - **GitHub:** [@Arzyzyy](https://github.com/Arzyzyy)
-- **Portofolio:** [arifrahmanhakim-porto.vercel.app](https://arifrahmanhakim-porto.vercel.app)
-- **Instagram:** [@arifrahmanh4kim](https://www.instagram.com/arifrahmanh4kim)
-
----
-
-*Terus belajar, membangun, menguji, dan menyempurnakan solusi digital melalui proses engineering yang terarah.*
